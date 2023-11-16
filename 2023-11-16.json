@@ -1,0 +1,26 @@
+{
+  "name": "Myrtie Dixon",
+  "age": 31,
+  "address": {
+    "street": "Taew Plaza",
+    "city": "Dugiuc",
+    "state": "DC",
+    "zip": "65293"
+  },
+  "contact": {
+    "phone": "(940) 313-2338",
+    "servicePhone": "800433164"
+  },
+  "birthday": "1969-03-23T22:08:22.850Z",
+  "ip": "72.99.111.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Fo fodhuj ihuih teka rapefhev jup koza ni uroufovu kurve vozkatar rew jowu uv evu lesat. Feug mukas cadi rumorimi mudlehe duddogov vanil bejcivhob piumu soas rizu takcejeb jikgaktom. Tabto inec ro omsesan ek feb hepvine goiv piv ohnede ra iv ra ju fawla.",
+    "bio": "Mumsozamu ucuzatir oviar ir julzik pirharre lelar du lezet vic ug dedujis odewepof haw lib el hojluhoz kupsuga. Me haricite nafedi azholwij vi si wuew ep wajef riguj uhuhufe ocuitehe ur. Wezru islepop ped voriva bum poloj bosini limale itawiv odobikiz gigcate menij me tos rohhe fewaja tab sun."
+  },
+  "apiKey": "6ba32046fdfb7a7f13eea6faca114eb39d86fcf8b42e93c43a41e68473fab70a",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
