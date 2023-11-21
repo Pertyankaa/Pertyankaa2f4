@@ -1,0 +1,26 @@
+{
+  "name": "Lena Moran",
+  "age": 22,
+  "address": {
+    "street": "Unfe Drive",
+    "city": "Gomugpaz",
+    "state": "MA",
+    "zip": "98242"
+  },
+  "contact": {
+    "phone": "(636) 910-3438",
+    "servicePhone": "800457797"
+  },
+  "birthday": "1987-08-06T23:35:49.003Z",
+  "ip": "118.95.41.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Owugotoh zes tiajaori neve nescuvise ibabo cacir niroju juh hal me zamugeh haazmac ber erarut. Fec gighagub osner devwumbe cag owoh pa za valmuri sevolci uvohihvis devsurlan kajgezvi iclafis ameacogi lurka ponuak. Azinig hisben eri iw epja tuzaske pu geno ceduz lul puwoiv ujicif danu fas.",
+    "bio": "Sopfofimo fod fi ziwib ak ze wujekkac lecbe miw kenizufi sa jo winarge vojazu fitanuc. Oz mohpab umhutaf embuj or ajoce keguki hiozo zut vav ito cumape levan upuvin jozu mojgadeg. Hol ba ofoicmoj zizzafal le ojoravran cag ibliz cevi hu lajmi ruic iser faig."
+  },
+  "apiKey": "4160b33a18d76f53bf4ccd784b630ed96f9111221e2f032ea0bc5c6f7489e4c7",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
