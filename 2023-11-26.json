@@ -1,0 +1,26 @@
+{
+  "name": "Tom Bryan",
+  "age": 39,
+  "address": {
+    "street": "Epogol Loop",
+    "city": "Abomikad",
+    "state": "LA",
+    "zip": "41703"
+  },
+  "contact": {
+    "phone": "(982) 858-1559",
+    "servicePhone": "800979494"
+  },
+  "birthday": "1973-05-07T23:56:37.037Z",
+  "ip": "208.87.31.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Fus vunokves zihvaguf rilsafi ew te nobdo cej raenaito zeipoh gurew kiv tawheta. Li bafvi liwe bakemon isueval besfi gup focioti vesuved onunavo utonihwez ci vow. Areavseb zah ro kappoza vahfewge cuzeg si pinokud haigici pivocgu uz ril. Fu hu im wa ife gom dop zikadseh sap jaiwiha efohuz duw.",
+    "bio": "Asiuwu bujfaj deswa zuwon givbadle luwuv igebec gol rodjomig ijavuun pojiva go. Nerib wagfaf rutada ticnikned deaw ina hug umafiksa ku tuokeho tazagu virokfi vanheihe zo vuaja. Vec hapa cuhsabogo di larbod jo an cemivuw je doki ufrul pudgus. Zomde uk adiasive kamej goegame bet ho omene pan elvapo sougkiw cinesje hujdoih oba no lu."
+  },
+  "apiKey": "d1092f706975027c7ae7a061c4a810376040daf55f68b52af98cdf0ffd54946c",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
