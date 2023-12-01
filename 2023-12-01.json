@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Miles",
+  "age": 57,
+  "address": {
+    "street": "Waki Loop",
+    "city": "Motacak",
+    "state": "OR",
+    "zip": "35546"
+  },
+  "contact": {
+    "phone": "(456) 676-6250",
+    "servicePhone": "800268587"
+  },
+  "birthday": "1989-07-11T23:13:44.483Z",
+  "ip": "61.140.187.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Di bu ga lag web jo fin ja hal gehesetam fev bimjis memo nag he ukmi awevub. Ideraj ponideuf firjefe mok wa se tiuc judok cujuwur gocrij wiwo ba obfi tos hosco. Wojki sufaki zi fesefi cuptefkin hocce miahdov ci rij geli vuv puper mammeup.",
+    "bio": "Watetjuw kesjosoc otceki ri eto ukjolul fiham fu digripja jenkaid kenfa ko lev zailo olivi hufter zo. Kuworec muil co vasaju pisodsi biiwmad ziub sahav geb teuw ugoke mut supkigil moni puhvujkoz fukebi cin ijciklu. Le tun vu ja eve ujveicu dag lul fuupidu umfe ep zunum kif im. Kaz fabga damarse fa ecaso juc jecihvo pevha cihid milelje la haj. Ili la wu mefahjob cecoih peep ronkew supet itomerret johalab tosafik koniki."
+  },
+  "apiKey": "f671a7b437bd1807f3318ae9d2bc0c59ada70fee5c930e7f970b98b9153cf1dc",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
