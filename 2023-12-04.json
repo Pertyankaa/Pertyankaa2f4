@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Tate",
+  "age": 53,
+  "address": {
+    "street": "Kooda View",
+    "city": "Eklucrah",
+    "state": "GA",
+    "zip": "76631"
+  },
+  "contact": {
+    "phone": "(982) 858-5765",
+    "servicePhone": "800695619"
+  },
+  "birthday": "1993-06-02T18:44:38.310Z",
+  "ip": "34.219.159.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Torfe mimulnaj satuifa udtuub pe teivwo serdez oz at suciwsek fusik ene omugoju gahohoki li mubforik hubiw sopmuri. Anemazdut ridza of lup piti di jizagatu sef babcu econuj tapgawol tiav nimmu jeegi onekorav. Pino ed orita co topjobmof mu hafos hadluzot pezzetu ga sukohasik memdop vurutobi le. To ren uhza jatowe uj ramogzu sicarsij bivbehe capcet hepuvolev funul ah bes. Pupsi malla ni atga nubuk unevaumi uvuwokovo natomu hokel cogogu hurgap uwe comipud. Niihuede ujru kic icezof nozse wehobe movibuci geki bigenon ri copewru vu hiflow fu.",
+    "bio": "Ricve fukpur az me rolo bucwe megfor agobnov oga gesgamik fezecdo sohpeg rieg pajas ip cizjuremi. Odhontup gorus li pishege jo bobri jujmajhu marmo jotvav puvozize hudniej irauze ranewcev si gasof rod voso. Miror jecvac oho lajajo kizafdom ehu ep rifom kiditoci cofi ivide bote lih cuv."
+  },
+  "apiKey": "b5e3e3e1703aa4e9e86e1f4e95c48ff52c669b7e91ca3f50d5e217577e8c75da",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
