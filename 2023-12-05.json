@@ -1,0 +1,26 @@
+{
+  "name": "Jerry May",
+  "age": 45,
+  "address": {
+    "street": "Pipen Grove",
+    "city": "Raretufec",
+    "state": "CO",
+    "zip": "00192"
+  },
+  "contact": {
+    "phone": "(772) 647-4579",
+    "servicePhone": "800757923"
+  },
+  "birthday": "1976-09-10T04:07:46.682Z",
+  "ip": "181.73.128.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Bib sebso milebeor poclob neago una lafa oniwi kozrecer abut gangop kamjurrif ipu hugwe. Febi pini po ollaame fav wogos giame je ito hahpe dusdo kengocge pob kuwaji oderafe. Hulemej utsuub etaje orfoluh jujar ho datu dik vureb kulbo adrufow rocof sor elwoce. Ruavmus ba ul kus dema cabez ju cabcizi buj ihe ucadav suju fenamin gukeruc bagkum irpob gawtu. Lakasug rodiseib udo ivowo vopap sejejtuh me dur rarew co kel bazju ocbudpe zucisovaz. Tijnuvutu kifit ve logdu oze ko er iv zurseh iheziwar pulaogu majok kavov.",
+    "bio": "Zop tettu jocna fizhara sit bumoil pumfastoj inhupeg hub feuwe poniaw laraaz ka zugifca wugju di huzalvu wamopuz. Mivulodu wakohfu huwugu ke hupvavtec mo gak haped lem va lidatfiz vuan buezkof epli lajvongu acaje. Udawiej gav sul lajziv ro uzogo bufuwnav pilegbi harad boiw fize laafeze vebvifu. Zid pil zozugif avuuw caate wu ownopuk nisenad catagok hubakaz azvillaf lecizih fafgep."
+  },
+  "apiKey": "b56e3dd666f329b5139781ed6a3c514c6e6a969cd0293b6695e9348ddf06fdd5",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
