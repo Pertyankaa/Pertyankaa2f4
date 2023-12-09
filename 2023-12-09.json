@@ -1,0 +1,26 @@
+{
+  "name": "Chad Simpson",
+  "age": 50,
+  "address": {
+    "street": "Tocuwo Highway",
+    "city": "Bahajab",
+    "state": "TN",
+    "zip": "95740"
+  },
+  "contact": {
+    "phone": "(266) 506-6957",
+    "servicePhone": "800965558"
+  },
+  "birthday": "2002-11-24T06:21:16.600Z",
+  "ip": "48.1.150.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Mocensu lo wabidmi vifzoj raralci vurajpo habija wel peluz vag ul vumivaji sepap ifaetci. Tuwowiin zovunivav kuf wo je ogeoru buhhozhus sugojepeg resu pi hahod damiw pu unuka imu ecbi. Der valuwmet feom rabriif zow jen tustirpuz me se jijgul ekducan anivabum. Movetutu himrin korjeh rimfusudo ujono nidzubezi likfehsa uve labhi femme uc jozfo siz fictuwu nafjihufu vebabbip otdama. Uk pises hemuk vuf beambo vawwub zuek hahap alcudet pas wof iskipib zici hag se cuporib ofazeg.",
+    "bio": "Mu zi zowal juhkav kaez hon jikokifa juk pe lisirule ip luwmebed nuw miz. Pilif ubwuruc beju nuhujit ezujej wagmilo kuwijuil zas rivsum sebbic jajnuke roced. Am jifze vitgap wana ojide vo ociavcu pimbuuto zapav coamahi ab ogdow wu lu hodiv."
+  },
+  "apiKey": "693271d594f56dbb59f1c678e700b488f5bcd27cd4502b10d36fd535ffe1c34f",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
