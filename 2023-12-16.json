@@ -1,0 +1,26 @@
+{
+  "name": "Myrtle McLaughlin",
+  "age": 25,
+  "address": {
+    "street": "Zozu Loop",
+    "city": "Neokoted",
+    "state": "MI",
+    "zip": "48289"
+  },
+  "contact": {
+    "phone": "(676) 816-4194",
+    "servicePhone": "800475592"
+  },
+  "birthday": "1989-04-24T09:22:56.701Z",
+  "ip": "16.151.51.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Ajijimji ginos ikfa emu zot nu mecew rodo pelloj wiv vejtekfa cew dajhur dek. Ozeba am go matahmuv hinpizfa uvviv mackij gu ozoozeje hazurak jas tejvazdo itbew ma tabo biazgum. Udi we wup irej ofimehuj gidi olciuc wa pasuvvom vohive ges civefeva co ma pu.",
+    "bio": "Julfu noga hotvu cufsaihu pa dizguji juaj evvuf va lu lo guf je ewe ajaleoc gepoc va. Co ome ehzowopa hibig miguvasa guku zunvuci fo ji ekwe tiigaak jesiwbab wul. Goviih co febetosij so luzus fofeh si jeitfaj ma zuglobraj fobumotu dok nor vujof juvrif va puden ordihmit. Mi wotuni zagrap wuppaw mirjuca inobu judur wesfanu ivi zilsuc doj faduw apnahbe. Dotaczuw biwavfo dad fukezvat vero walus cecukap nugbehut di ofsoga ocifa pijokra ogare uf tosjo lugasico orguve nitozew. Wizdu ruvci gavorokic fipifde mekjug va vidrewet ved hofiruko sanej faznahgu miinpo gumemgun incuf alapokba."
+  },
+  "apiKey": "a8f19d90c009b083a394986d9eceb50983e358ea5552fac2444746f696d421f5",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
