@@ -1,0 +1,26 @@
+{
+  "name": "Alma Nguyen",
+  "age": 43,
+  "address": {
+    "street": "Togu Drive",
+    "city": "Kojosi",
+    "state": "IL",
+    "zip": "41243"
+  },
+  "contact": {
+    "phone": "(666) 966-8760",
+    "servicePhone": "800546727"
+  },
+  "birthday": "1970-05-11T12:28:16.433Z",
+  "ip": "168.223.201.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Gewco dunhed sewotpor jo wipiwjur mohaz ola zi isefiw hujdeota cigu gehte hejibof jagjijro oziju. Apesohob cop kokewo cergiv litok jif cerud opafah buw jo zuras zaaffa poame mesjif aw. Ulfisih kufrok ena val ku cujure ishi aczibpu dac valkuzgas wohno ajdelur manu.",
+    "bio": "Coj pub kopguw jazurdib jakeke aprog mid zun penhoz duluc kef loh eniveccus goepset nede tahulwe watraf nukuccan. Va topvec durgadapu ukoole kudgi re peijihe muwna biklovhed fat ri ce soic aklu. Lezesa gehbiw zinjodan ehotakut kejussa vo muase dodu hizowek goili kovisdan tosto fi tahtabam jotuw wa."
+  },
+  "apiKey": "887ee7090b5db0bfe15fcb37648ad45317f811f7e88b858d4139c1a4b96f8d07",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
