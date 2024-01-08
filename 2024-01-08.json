@@ -1,0 +1,26 @@
+{
+  "name": "Owen Perez",
+  "age": 53,
+  "address": {
+    "street": "Kewka View",
+    "city": "Matlebuva",
+    "state": "OR",
+    "zip": "35604"
+  },
+  "contact": {
+    "phone": "(964) 684-2017",
+    "servicePhone": "800176333"
+  },
+  "birthday": "1973-11-04T06:53:58.293Z",
+  "ip": "177.232.60.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Rivav riomome mek ruwfu biaso de cava finug sizti vo ivmibum bendamkut lagrikcem. No hedezec coze za esomasu fi cudsifob hi fet etiehufi fudpakac gocvape pijur gazos abebipul defo jebzot. Rote gobwit olocemiw eziboj fef jiruf ciwasrij nasuraw sa beli kifwazel vo gumaseh mazokcuf ri zamwiw hid iplaz.",
+    "bio": "Utapo ivo zo bewujep tovmi zi cavhoj boguj mup lahe wug al cefha mawjek. Ofloeza tareej nevat gucata casmef usefu pafama we je surcaune dum nam bona juhe buka. Huf fipuk owdacof kizugos juwipag lofaku fakfizo bi hutuvusu worvep cetaf jede gop buf cuvdi afipihzan."
+  },
+  "apiKey": "cbca2842e0f319988721135d3122711e26e6176cedbd011ea7961d62bfec4bdf",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
