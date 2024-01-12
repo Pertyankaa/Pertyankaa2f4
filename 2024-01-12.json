@@ -1,0 +1,26 @@
+{
+  "name": "Robert Reynolds",
+  "age": 26,
+  "address": {
+    "street": "Zahjof Avenue",
+    "city": "Guvtuce",
+    "state": "NH",
+    "zip": "94245"
+  },
+  "contact": {
+    "phone": "(710) 748-7710",
+    "servicePhone": "800352476"
+  },
+  "birthday": "1989-10-18T02:29:27.900Z",
+  "ip": "89.104.73.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Tonifbus jemawipaw jekutor vovcug cege lescuci fihazicu vosdufjo cibopno mi jiba kueci galda ledbigi. Ojuso ji dotuw pep uniri igehev ki supisa dumlake gilonman egsujzez siti. Ve ojonam kaufe cok takupcok hu tagedton powopo wuzros pujig mu rivafe rod.",
+    "bio": "Lopki vefi saniric ewa tujsu baj sedimud hif mufek rif rohuwug fik rohfuuf toche je isvefwo umpofpi. Um apij sid hiap ivsa nefalris fi vefko eh holi tetvun zuculuj gos zurta ve. Etaojkac zivwiijo fino lehosgaw cipev icikadub pugko pinoh womeddoj na ci na. Aki kuj gigvaune mot cente volad ofi lidvohcu towel caesoavi pused lonezmur pienrot woz."
+  },
+  "apiKey": "b7bd603c0bed5885545b00ed3bf158d672ae6942cf8fc738ef053358dfc8fafe",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
