@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Yates",
+  "age": 35,
+  "address": {
+    "street": "Uwsub Turnpike",
+    "city": "Paszilco",
+    "state": "MO",
+    "zip": "18881"
+  },
+  "contact": {
+    "phone": "(375) 245-5697",
+    "servicePhone": "800249742"
+  },
+  "birthday": "1961-03-09T22:20:41.100Z",
+  "ip": "182.97.194.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivimun diwak su bih uge unutog ceik owze nokopam muho ewo vaponoz fafimak mif worda me ejwar. Asvi alzev hacpesi idtoid ow fu savutol pah fepge ezje fe paatpad newuneh faw pok. Rutigo huegovu cilulo funu bufnuf egorudu wadmeve su uki puazuel cif sipreni hiduvoz egiok nofeid um ni.",
+    "bio": "Ih ewufobret peka zodubjus tededu ca ziasi od amopefrif pulolpel era tam samef hojtefpi ituodozu. Ho cut jejtu osipusa kical tifwip os bof mebaraj vovdi sivabca neor tadojak bikti ina hena vesubinu. Joulu ofu rokim ate copow zug tir vorhu parehtu bis datiz mavin jelka."
+  },
+  "apiKey": "830d5ac6313e31543785bfd917e2e67054a10ebfaa3b59b99c4d0a77264e1266",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
