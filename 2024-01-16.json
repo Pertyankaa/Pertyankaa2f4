@@ -1,0 +1,26 @@
+{
+  "name": "Herman Gibbs",
+  "age": 64,
+  "address": {
+    "street": "Nodsik Loop",
+    "city": "Josigve",
+    "state": "NV",
+    "zip": "39995"
+  },
+  "contact": {
+    "phone": "(609) 846-3089",
+    "servicePhone": "800639968"
+  },
+  "birthday": "1989-12-30T10:35:43.078Z",
+  "ip": "95.205.105.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Fotkegba ruza siociho sodeh rog za po pesazefu gol po buile zukekpu bifi ebawibep wafnom dohipdi. Jukla coh wiz pik tamirip isma sohihjig joov hulbonek bueme iniwa piraw ha le jasdav. Ok cezat mofak gohilo kol nak koig dirdug za hifat isejuftin as li gozga adisum hudvusre ra.",
+    "bio": "Dijjud zarset igicaewe ju cak bezbar ago duskoeg ga usa cine uksav juhuh kuv tucoc obotepij morha fobku. Owbupoti eleloazo siwidaf hinfedo fu eboetvu dep ij ustega tuzrat kiide ok no mobeb. Vam sekdos tuwvalon eh vofu olakouro he cevsiofe nidaonu harjumig sewuvcal gokucno nivele ja rorehi vupobuko emlam. Bagikam gojebefob notozo valavapi eddep pino baljebuk ojunul gaep potacoap pepudij pa laffute fa wo ad de."
+  },
+  "apiKey": "e6a555d6f09c75c6dac15f4d782545fc88a196b49330e00b582c43c20a1b7b84",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
