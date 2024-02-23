@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Stephens",
+  "age": 33,
+  "address": {
+    "street": "Tujfo Parkway",
+    "city": "Idenbuf",
+    "state": "IL",
+    "zip": "32620"
+  },
+  "contact": {
+    "phone": "(967) 236-1854",
+    "servicePhone": "800183796"
+  },
+  "birthday": "1959-08-18T02:56:16.744Z",
+  "ip": "160.98.25.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Rulhisa kehes teun zo re pon adcebuf ar jic jueb ucpiwtu ali. Zonfoed vuiwoic kakgu jenmu jilgof siur litvu geb ju en toroz benihjed wedar. Fur zuzful bernu wunauw wit itemosus siajoenu vib ewdijze puzorlek mezod vuhla uc.",
+    "bio": "Beb ejeboffu goluwbuk dampulsir ce heof jefdil ucsu sed tabhevhuw fimwuhu ed nokuzfec ge cukpe milok. Elbuw raoz felmisusu tebo celbongo hol so ka rujohnun uktoger naduzi dehudowuw zikab ugair ju. Ji cepozlij gaacohan pinrog lommozej piah maw po pifzuanu rizvetuc vepetat oro uvnunuwa siw okjehu muija et fuinki."
+  },
+  "apiKey": "e07915197b0b1c11249974ff37a15e3df79e5191bb21f8cf5bdeb7f3e28bf91a",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
