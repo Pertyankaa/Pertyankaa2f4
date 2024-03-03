@@ -1,0 +1,26 @@
+{
+  "name": "Barry White",
+  "age": 25,
+  "address": {
+    "street": "Pigag Square",
+    "city": "Uwwiini",
+    "state": "VA",
+    "zip": "38150"
+  },
+  "contact": {
+    "phone": "(772) 926-5821",
+    "servicePhone": "800272652"
+  },
+  "birthday": "1996-12-15T08:22:50.157Z",
+  "ip": "52.140.84.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Kegbejra det lekon sa jide rana ese vezkese hi uw si eciki pukme. Robekajob iciveri cithukiso fu egegibuc efnaz umvefsah gies jonwigiv ohged huje figkeh anunohfal mosola zagep voh gejudi sa. Fusakuz jugot gec gucke mudi are sok eso acubiba rukko jamezi icedum povukfen. Puzru zaka pimdas minpi gosigiwi higfuti wab gareoj jigpurac bikordag da nasje rek mu ci vu hebiw musas.",
+    "bio": "Cuha leuc coj zogawzap an caboj cova ce owoclo was de daf. Sad ura zapuro unujet el jiadmit popazahem bip jituza ume fe ciir atizi zoce lu jufgulet gih ob. Baiv vijidanip ham kunremon mimlir saru ramfuc lu vidicel hego vegwusar kihe lu ameece mavitiso soit re. Ibutu elupa ukiukom awera co avoivote zemva maklu vuv cepzib juvoco orikunav du ginruj igvi puojon. Bebok esipodu jecolke wupa ufwi nijoboh mowjafur go ni hevawa docraopa usokazez gecova topbov."
+  },
+  "apiKey": "5352842c89b20efdbecea780dd35e76a9ec3ca376d2dafb3985363d20fc2e5db",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
