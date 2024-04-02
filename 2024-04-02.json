@@ -1,0 +1,26 @@
+{
+  "name": "Danny Nguyen",
+  "age": 29,
+  "address": {
+    "street": "Jikku Circle",
+    "city": "Ikjibe",
+    "state": "GA",
+    "zip": "03455"
+  },
+  "contact": {
+    "phone": "(482) 648-4745",
+    "servicePhone": "800832956"
+  },
+  "birthday": "1978-09-13T15:12:07.223Z",
+  "ip": "19.58.129.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Nekhaza mumzaw goholuni jucavha wez bu hudbe tep lejfi wepsav okazec sok biw. Lofjib heliz napkufgu tu pa ahunep su ulmehfaz basuz dafso lovbog hac. Aconi bivize ulegu bopi ruc uge fi wa mocari bitnopliw pos ubpanot mu ozias. Vabuf jarpe uw usolob juvit kowiug nin inifuf kaja edukal pohat ce uco purezej zebocti beraplek.",
+    "bio": "Higulde di wiv dajkalel opwo janwok jip fajokow bem resuv tuk netib zuwojuve nu sig avkurji zev setifu. Ha semfo ifili dazciawi zu avju ji wo azu kanuzfi we leva bin be pabnun. Do emowo rerinjet rapde jommuskal beskogav bu ri wuwro detekpu dizoewi umowajgi gognab ri ucu. Uhbadup ihisawtus nusmubnis dowuw mi bojwo rev af vu lup fucare ephuni dat tekeh haz furvikga cuwuplig. Ibeunta we hawawnu let mizapo fen mar pogoote karkuzguh lif jugwidi zeed eglais num. Poozo ze loffe belolup acomuju ik panul je jologfaj kusear ecoful zi rafpol."
+  },
+  "apiKey": "8160165497a54243809c4af01304c9a164d23c28d659392c1bd223bc8b861bab",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
